@@ -1,5 +1,5 @@
 # tartaglia-bot
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Bot 12" src="https://i.pinimg.com/originals/b4/2a/2d/b42a2d57f721e5de806968a0f5a8f0c9.jpga">  
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Bot 12" src="https://i.pinimg.com/originals/b4/2a/2d/b42a2d57f721e5de806968a0f5a8f0c9.jpg">  
 
 
 # Tartaglia
@@ -17,14 +17,14 @@ And yes, it is based off Tartaglia from Genshin Impact.
 
 ## 📔 Table Of Contents
 
-* [Common Errors](https://github.com/Koolwiza/Bot-12/blob/main/docs/installation/common-errors.md)
-* [Command  List](https://github.com/Koolwiza/Bot-12/blob/main/docs/commands.md)
+* [Put your bot token here](https://github.com/lakaruma12/tartaglia-bot/blob/main/.env)
+* [Package](https://github.com/lakaruma12/tartaglia-bot/blob/main/package.json)
 * [Installation-Guide](https://github.com/Koolwiza/Bot-12/blob/main/docs/installation/installation-guide.md)
 * [Features](https://github.com/Koolwiza/Bot-12#features)
 
 ## ⭐ Commands
 
-[Command List](https://github.com/Koolwiza/Bot-12/blob/main/docs/commands.md) yes, it put it in bot.js
+[Command List(In bot.js)](https://github.com/lakaruma12/tartaglia-bot/blob/main/src/bot.js) yes, it put it in bot.js
 
 
 ## ❤️ Show your support
@@ -35,6 +35,3 @@ Give a ⭐️ if this project helped you! (which im pretty sure it wont, sorry .
 
 Copyright © 2021 [@lakaruma12](https://github.com/lakaruma12).<br />
 This project is [GNU General Public License v3.0](https://github.com/lakaruma12/tartaglia-bot/blob/main/LICENSE) licensed.
-
-
-\- Credits to [AtlantaBot](https://github.com/Androz2091/AtlantaBot) for code ideas
