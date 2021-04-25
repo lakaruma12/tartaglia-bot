@@ -19,8 +19,7 @@ And yes, it is based off Tartaglia from Genshin Impact.
 
 * [Put your bot token here](https://github.com/lakaruma12/tartaglia-bot/blob/main/.env)
 * [Package](https://github.com/lakaruma12/tartaglia-bot/blob/main/package.json)
-* [Installation-Guide](https://github.com/Koolwiza/Bot-12/blob/main/docs/installation/installation-guide.md)
-* [Features](https://github.com/Koolwiza/Bot-12#features)
+* [Installation-Guide](https://github.com/lakaruma12/tartaglia-bot/blob/main/installation-guide.md)
 
 ## ⭐ Commands
 
